@@ -6,7 +6,7 @@ public class Demo1 {
 		System.out.println("just test");
 	}
 	
-	public void fun1(){
+	public void fun2(){
 		System.out.println("fun1");
 	}
 }
